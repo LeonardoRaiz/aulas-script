@@ -1,4 +1,4 @@
-![Class Image](https://gitlab.com/LeonardoRaiz/aulas-script/-/raw/main/Aula.png)
+![Class Image](https://gitlab.com/LeonardoRaiz/aulas-script/-/raw/main/Variados/Aula.png)
 
 [![Node.js CI](https://github.com/LeonardoRaiz/aulas-script/actions/workflows/node.js.yml/badge.svg)](https://github.com/LeonardoRaiz/aulas-script/actions/workflows/node.js.yml)
 
